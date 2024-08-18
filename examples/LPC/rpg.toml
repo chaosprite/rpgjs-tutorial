@@ -18,31 +18,31 @@ spritesheetDirectories= [
 [inputs.up]
     name = "up"
     repeat = true
-    bind = "w"
+    bind = "g"
 
 [inputs.down]
     name = "down"
     repeat = true
-    bind = "s"
+    bind = "i"
 
 [inputs.right]
     name = "right"
     repeat = true
-    bind = "d"
+    bind = "e"
 
 [inputs.left]
     name = "left"
     repeat = true
-    bind = "a"
+    bind = "u"
 
 [inputs.attack]
     name = "attack"
     repeat = true
-    bind = "j"
+    bind = "t"
     delay = { duration = 200 }
 
 [inputs.skill]
     name = "skill"
     repeat = true
-    bind = "k"
+    bind = "r"
     delay = { duration = 200 }
